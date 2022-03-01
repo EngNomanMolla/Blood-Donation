@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5442991421",
+    "firebase_url": "https://blood-donation-c146f-default-rtdb.firebaseio.com",
+    "project_id": "blood-donation-c146f",
+    "storage_bucket": "blood-donation-c146f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5442991421:android:21be7a3670eccac1958154",
+        "android_client_info": {
+          "package_name": "com.purelifep.unique.blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5442991421-ne5pbuqvfmbv9nu93ms4tbu3evulaji8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9_YuYrzoc4tBwSRgdZhLysrRk5U1hhOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5442991421-ne5pbuqvfmbv9nu93ms4tbu3evulaji8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
